@@ -1,0 +1,12 @@
+{
+  "name": "support-ticket",
+  "version": "1.0.0",
+  "description": "Api de gerenciamento de tickets",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Hudson Sena",
+  "license": "ISC"
+}
