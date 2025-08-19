@@ -1,0 +1,13 @@
+{
+  "name": "primeira-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
