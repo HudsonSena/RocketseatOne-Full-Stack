@@ -1,0 +1,6 @@
+{
+  "products": [
+    { "name": "Parmegiana", "price": 130.5 },
+    { "name": "Pizza", "price": 120.5 }
+  ]
+}
