@@ -12,4 +12,8 @@ export const tickets = [
     path: "/tickets",
     controller: index,
   },
+  {
+    method: "DELETE",
+    path: "/tickets/:id",
+  },
 ];
