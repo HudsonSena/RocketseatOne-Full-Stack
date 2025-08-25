@@ -1,12 +1,1 @@
-{
-  "tickets": [
-    {
-      "id": "3c8dd815-1353-462a-a060-7a2c667cecda",
-      "description": "Computador não liga",
-      "user_name": "Hudson Diego",
-      "status": "open",
-      "created_at": "2025-08-22T15:58:48.237Z",
-      "updated_at": "2025-08-22T15:58:48.237Z"
-    }
-  ]
-}
+{"tickets":[{"id":"3c8dd815-1353-462a-a060-7a2c667cecda","description":"Computador não liga","user_name":"Hudson Diego","status":"open","created_at":"2025-08-22T15:58:48.237Z","updated_at":"2025-08-22T15:58:48.237Z"},{"id":"76dbb7d2-ab38-4dba-a6b4-7145c8446333","description":"Computador não liga","user_name":"Hudson Diego","status":"open","created_at":"2025-08-25T13:13:14.680Z","updated_at":"2025-08-25T13:13:14.680Z"},{"id":"b5b0b7b5-6731-40f2-bbfa-cb1ead00912b","description":"A tecla de espaço não funciona","user_name":"João Pedro","status":"open","created_at":"2025-08-25T13:40:55.001Z","updated_at":"2025-08-25T13:40:55.001Z"}]}
