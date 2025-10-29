@@ -18,11 +18,29 @@
     },
     {
       "id": "b5b0b7b5-6731-40f2-bbfa-cb1ead00912b",
-      "description": "A tecla de espaço não funciona",
+      "description": "Quero trocar",
       "user_name": "João Pedro",
       "status": "open",
       "created_at": "2025-08-25T13:40:55.001Z",
-      "updated_at": "2025-08-25T13:40:55.001Z"
+      "updated_at": "2025-10-29T03:09:51.763Z",
+      "equipment": "CPU 001"
+    },
+    {
+      "id": "69f53cfb-b320-4b0f-8aa1-57fde860ea90",
+      "description": "Computador não ligando totalmente",
+      "user_name": "Hudson Diego",
+      "status": "open",
+      "created_at": "2025-10-29T02:45:05.034Z",
+      "updated_at": "2025-10-29T02:45:05.034Z"
+    },
+    {
+      "id": "9de4e048-af33-4eef-ba9b-2470f7cb3c92",
+      "equipment": "CPU 002",
+      "description": "Quero trocar 002",
+      "user_name": "Hudson Diego",
+      "status": "open",
+      "created_at": "2025-10-29T02:50:16.868Z",
+      "updated_at": "2025-10-29T03:10:25.574Z"
     }
   ]
 }
